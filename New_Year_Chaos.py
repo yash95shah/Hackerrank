@@ -6,7 +6,10 @@ import random
 import re
 import sys
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5c1aea607a22f89381ed4d6ae75f5e4ac1c4e9bb
 def minimumBribes(q):
     length = len(q)
     arra=[]
