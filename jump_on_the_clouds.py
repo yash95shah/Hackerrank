@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-# Complete the jumpingOnClouds function below.
+
 def jumpingOnClouds(c):
     count = 0
     l= len(c)
